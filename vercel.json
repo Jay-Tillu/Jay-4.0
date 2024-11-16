@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/blogs",
-      "destination": "https://personal-blog-jay-tillus-projects.vercel.app/blogs"
+      "destination": "https://personal-blog-3phubm91f-jay-tillus-projects.vercel.app/blogs"
     },
     {
       "source": "/blogs/:path*",
-      "destination": "https://personal-blog-jay-tillus-projects.vercel.app/blogs/:path*"
+      "destination": "https://personal-blog-3phubm91f-jay-tillus-projects.vercel.app/blogs/:path*"
     }
   ]
 }
