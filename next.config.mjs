@@ -15,11 +15,11 @@ const nextConfig = {
     return [
       {
         source: '/blogs',
-        destination: 'https://personal-blog-h9vhotlc9-jay-tillus-projects.vercel.app/blogs',
+        destination: 'https://jaytillu.com/blogs',
       },
       {
         source: '/blogs/:path*',
-        destination: 'https://personal-blog-h9vhotlc9-jay-tillus-projects.vercel.app/blogs/:path*',
+        destination: 'https://jaytillu.com/blogs/:path*',
       },
     ];
   },
