@@ -10,6 +10,19 @@ const nextConfig = {
       },
     ],
   },
+
+  async rewrites() {
+    return [
+      {
+        source: '/blogs',
+        destination: 'https://personal-blog-h9vhotlc9-jay-tillus-projects.vercel.app/blogs',
+      },
+      {
+        source: '/blogs/:path*',
+        destination: 'https://personal-blog-h9vhotlc9-jay-tillus-projects.vercel.app/blogs/:path*',
+      },
+    ];
+  },
 };
 
 export default nextConfig;
