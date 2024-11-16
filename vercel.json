@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/blogs",
+      "destination": "https://jaytillu.com/blogs"
+    },
+    {
+      "source": "/blogs/:path*",
+      "destination": "https://jaytillu.com/blogs/:path*"
+    }
+  ]
+}
