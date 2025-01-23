@@ -69,7 +69,7 @@ export default function Home() {
           <a href="https://www.linkedin.com/in/jaytillu/" target="_blank">
             <button className="link-buttons">LinkedIn</button>
           </a>
-          <a href="https://blogs.jaytillu.com" target="_blank">
+          <a href="https://jaytillu.com/blogs" target="_blank">
             <button className="link-buttons">My Blogs</button>
           </a>
           <a href="https://jaytillu.medium.com/" target="_blank">
