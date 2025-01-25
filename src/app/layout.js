@@ -1,5 +1,6 @@
 import localFont from "next/font/local";
 import "./globals.css";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -10,13 +11,20 @@ const geistSans = localFont({
 export const metadata = {
   title: "Jay Tillu",
   description:
-    "My Name is Jay Tillu and I am a Software Developer by Profession, Tech Enthucist by Passion and Content Creator by hobby. I have been coding for more than 3 years now. When it comes to coding, I specialize in React, NextJs, JavaScript, HTML, CSS, TailwindCSS and Appwrite.",
+    "I'm Jay Tillu, a passionate Cybersecurity Engineer with expertise in ISO 27001, Penetration Testing, and Threat Management. I've completed Google Cybersecurity & Azure Certifications. Let's connect!",
 };
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${geistSans.variable}`}>{children}</body>
+      <head>
+        <title>{metadata.title}</title>
+        <meta name="description" content={metadata.description} />
+      </head>
+      <body className={`${geistSans.variable}`}>
+        {children}
+        <SpeedInsights />
+      </body>
     </html>
   );
 }
