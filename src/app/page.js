@@ -30,12 +30,12 @@ export default function Home() {
         <br />
 
         <p>
-          My Name is Jay Tillu and I am a Security Engineer by Profession, Tech
-          Enthucist by Passion and Content Creator by hobby. I have been coding
-          for more than 3 years now. When it comes to Cybersecurity, I
-          specialize in ISMS, ISO 27001, ISO 27701, Vulnerability Assessment and
-          Penetration Testing, Incident Response, Threat Management. Recently I
-          have just completed{" "}
+          My name is Jay Tillu, and I am a Security Engineer by profession, a
+          Tech Enthusiast by passion, and a Content Creator by hobby. I have
+          been coding for more than 3 years now. When it comes to Cybersecurity,
+          I specialize in ISMS, ISO 27001, ISO 27701, Vulnerability Assessment
+          and Penetration Testing, Incident Response, Threat Management.
+          Recently, I have just completed{" "}
           <Link
             href="https://www.coursera.org/account/accomplishments/professional-cert/5AMSXH3WEJLN"
             target="_blank"
@@ -50,17 +50,11 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
             className="certification-link"
-
           >
             Microsoft Azure Fundamentals
           </Link>
-          . These days, I am working as Security Engineer at Simple2Call. As a
-          hobby, I love to write about Technology, I authored more than 120
-          Blogs on various platforms including Medium, Hashnode and Dev.to. Till
-          date my blogs served more than 500K+ readers worldwide, crazy right
-          😱?
+          .
         </p>
-
         <br />
 
         <p>
