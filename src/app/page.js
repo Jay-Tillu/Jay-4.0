@@ -1,10 +1,10 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <main>
       <div>
-        <h1>Jay Tillu</h1>
         <br />
         <br />
         <Image
@@ -17,6 +17,9 @@ export default function Home() {
         <br />
         <br />
 
+        <h1>Hey There, I'm Jay Tillu</h1>
+
+        <br />
         <p>
           When the world around me believed that a formal degree was all I
           needed, I denied it.
@@ -27,13 +30,31 @@ export default function Home() {
         <br />
 
         <p>
-          My Name is Jay Tillu and I am a Software Developer by Profession, Tech
+          My Name is Jay Tillu and I am a Security Engineer by Profession, Tech
           Enthucist by Passion and Content Creator by hobby. I have been coding
-          for more than 3 years now. When it comes to coding, I specialize in
-          React, NextJs, JavaScript, HTML, CSS, TailwindCSS and Appwrite. In
-          past, I have worked with many companies and on various roles such as
-          Team Member Operations, Flutter Developer and Frontend Developer.
-          These days, I am working at Frontend Developer at Simple2Call. As a
+          for more than 3 years now. When it comes to Cybersecurity, I
+          specialize in ISMS, ISO 27001, ISO 27701, Vulnerability Assessment and
+          Penetration Testing, Incident Response, Threat Management. Recently I
+          have just completed{" "}
+          <Link
+            href="https://www.coursera.org/account/accomplishments/professional-cert/5AMSXH3WEJLN"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="certification-link"
+          >
+            Google Cybersecurity Certification
+          </Link>{" "}
+          and{" "}
+          <Link
+            href="https://learn.microsoft.com/en-us/users/jaytillu/credentials/60d160666ea85c82"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="certification-link"
+
+          >
+            Microsoft Azure Fundamentals
+          </Link>
+          . These days, I am working as Security Engineer at Simple2Call. As a
           hobby, I love to write about Technology, I authored more than 120
           Blogs on various platforms including Medium, Hashnode and Dev.to. Till
           date my blogs served more than 500K+ readers worldwide, crazy right
@@ -60,7 +81,7 @@ export default function Home() {
           more than any book will ever teach me. I think you are here to get to
           know me. Best way is to start with my work.
         </p>
- 
+
         <br />
         <div className="button-container">
           <a href="https://github.com/Jay-Tillu" target="_blank">
