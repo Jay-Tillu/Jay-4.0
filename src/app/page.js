@@ -17,7 +17,7 @@ export default function Home() {
         <br />
         <br />
 
-        <h1>Hey There, I'm Jay Tillu</h1>
+        <h1>Hey There, I`&apos;`m Jay Tillu</h1>
 
         <br />
         <p>
