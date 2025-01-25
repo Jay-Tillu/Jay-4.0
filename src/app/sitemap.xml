@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://jaytillu.com/</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/series/cybersecurity</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/series/aws</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/series/loving-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/why-is-using-the-index-as-a-key-a-bad-practice-in-react</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-flutters-applifecycle-events</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-innertext-textcontent-and-innerhtml</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/how-aws-shield-protects-you-from-ddos</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-aws-artifact</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-aws-organization</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-aws-identity-and-access-management-iam</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-aws-shared-responsibility-model</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-amazon-data-migration-service-dms</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-redshift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-are-subnets-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-security-zones-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-a-vpn-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-a-firewall-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-wpa-wpa2-and-wpa3-protocol</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-wep-protocol-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-pop-imap-and-smtp</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-smtp-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-internet-message-access-protocol-imap</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-post-office-protocol</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-ssh-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-telnet-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-address-resolution-protocol</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-dhcp-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-network-address-translation-nat</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-difference-between-private-ip-and-public-ip</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-network-protocols-the-backbone-of-modern-communication</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-osi-model-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tcpip-model-and-protocol-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-tcpip-model</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-dynamodb</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-amazon-aurora</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-amazon-relational-database-service-rds</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-elastic-file-system-efs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-simple-storage-service-s3</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-amazon-s3-storage-classes</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-elastic-block-storage</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-aws-instance-store</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-cloudfront</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-amazon-vpc-security-with-subnets-nacl-and-security-groups</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-ways-to-interact-with-aws</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-aws-direct-connect</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-vpc</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-promises-in-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-callbacks-in-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-call-stack-in-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/datatypes-in-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/variables-in-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/javascript-scope</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/javascript-hoisting</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/how-javascript-works</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/history-of-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/reactjs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/web-development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/webdev</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/list-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/abstract-classes-and-abstract-methods-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/interface-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/constructors-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/classes-and-objects-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/arrow-functions-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/user-defined-function-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/functions-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/switch-case-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/conditionals-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/operators-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/keywords-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/variables-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/data-types-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/dart-sdk</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/flutter</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/mobile-development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/android</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/ios</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/jay-tillu</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/javascript-pass-by-value-and-pass-by-reference-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/javascript-code-execution-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/react-element-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-react</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/dom</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/dom-manipulation</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-amazon-ec2</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-load-balancing-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-file-storage-in-the-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-block-storage-in-the-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-web-services</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloud</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-shield</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/securityawareness</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/security</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloud-security</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-artifact</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/devops</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/devops-articles</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-scp</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-security</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/iam</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/devops-journey</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/devopscommunity</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/shared-responsability-model</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-shared-resposibility-model</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-dms</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/database-migrations</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/storage</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/data-warehousing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-redshift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/subnet</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/subnetting</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/subnetmask</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/network</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/network-security</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/networking-for-beginners</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cyber-security</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cybersecurity-1</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-encryption</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-tcpip-protocol</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-are-ports-in-networking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/vpn</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cybersecurity</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cybersec</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/firewall</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/protocols</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/wifi</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/wifi-hacking</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/wep</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/imap</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/smtp</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/pop</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/beginners</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/beginner</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cybersecurityawareness</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/ssh</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/secure-shell</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/beginnersguide</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/basics</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cyberawareness</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/ip-address</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/tcpip-model</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/infosec-cjbi6apo9015yaywu2micx2eo</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloud-storage</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-dynamodb</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-rds</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-aurora</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/sql</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/databases</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/rds</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-efs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-elastic-file-system</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-s3</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-storage</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-ebs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-storage-service</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/css</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/developer</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/elastic-beanstalk</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloudformation</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-cloud-practitioner</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/directconnect</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-service</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/vpc</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-vpc</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-services</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/javascript-framework</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/browsers</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/variables</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/scope-is-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/basics-of-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/hoisting</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/javascript-basics</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/howjavascriptworks</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/jaytillu</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/history-of-javascript</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/call-stack-in-javascript-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-react-element</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/features-of-react</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-dom</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-api-the-complete-guide-for-api</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/android-app-development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/ios-app-development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/app-development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/object-oriented-programming</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/mobile-app-development</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/dart-language</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/flutter-sdk</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-dart-mixins</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/value-type-and-reference-type-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/maps-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/method-overriding-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/inheritance-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/optional-arguments-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/types-of-function-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/loops-in-dart</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/commonly-used-array-methods-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/for-loop-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-gradle</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/array-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-class-and-struct-in-swift-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-structs-and-class-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/struct-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/range-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/data-types-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/value-type-and-reference-type-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/variables-in-swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-swift-language</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-aws-elastic-beanstalk-and-aws-cloudformation</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-aws-region-availability-zones-and-edge-locations</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/choosing-the-aws-region</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-aws-ec2-pricing-plans</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/codenewbies</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-ec2</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloud-native</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/cloudflare</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/load-balancing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/load-balancer</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/azure</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/gcp</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/file-storage</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-authorization-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-authentication-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/encryption</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/tcp</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/ports</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-amazon-sns-and-amazon-sqs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-elastic-load-balancing-in-aws</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-ec2-auto-scaling-and-how-it-works</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-the-difference-between-scripting-language-and-programming-language</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/birth-of-modern-programming</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-infinite-loop-in-programming</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-plugin-in-programming</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-monolithic-and-microservices-architecture</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/history-behind-the-word-computers</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-object-storage-in-the-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/understanding-serverless-computing-with-aws-lambda</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-elasticity-and-agility-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-hypervisors-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-virtualization</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-iaas-paas-and-saas-what-is-difference-between-them</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/how-time-sharing-in-mainframe-computers-era-laid-the-foundation-of-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/history-of-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/javascript-library</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/apis</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/api-basics</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/swift</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/gradle</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/swiftui</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-regions</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/availability-zone</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-certification</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/how-does-microsoft-azure-work-behind-the-scenes</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-serverless-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/cloud-provider-vs-cloud-tenant-responsibilities-in-iaas-paas-and-saas</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-rbac-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/difference-between-authentication-and-authorization-in-cloud-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/differences-between-public-private-and-hybrid-cloud</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/what-is-iaas-paas-and-saas-simplified</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/authorization</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/authentication</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-lambda</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-sns</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/amazon-sqs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/ec2</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/aws-certified-solutions-architect-associate</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/script</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/programming-blogs</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/newbie</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/loops</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/plugins</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/historyofcomputers</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/computer-science</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/object-storage</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/serverless</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/serverless-computing</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/google-cloud-platform</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/hypervisor</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/virtual-machine</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/virtualization</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/iaas</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/paas</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/saas</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/history</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/microsoft</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/rbac</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/public-cloud</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://jaytillu.com/blogs/tag/private-cloud</loc>
+  <lastmod>2025-01-25T10:06:51+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+
+
+</urlset>
